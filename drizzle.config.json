@@ -1,0 +1,13 @@
+{
+    "dialect": "postgresql",
+    "schema": "./utils/db/schema.ts",
+    "out": "./drizzle",
+    "connection": {
+      "host": "ep-royal-pond-a5ohbk8o.us-east-2.aws.neon.tech",
+      "database": "zerotohero",
+      "user": "neondb_owner",
+      "password": "Z1DvPN0ywFtX",
+      "ssl": true
+    }
+  }
+  
